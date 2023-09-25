@@ -1,5 +1,5 @@
 # Data Visualizations
-Some data visualisations created in python. 
+Some data visualisations created in python. Please notify me on email if this code is od use to you in any way. My email is mahad.thebestome@gmail.com
 These visualizations include:
   1. Bar Graph
 
